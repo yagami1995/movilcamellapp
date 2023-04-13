@@ -1,0 +1,23 @@
+<resources>
+    //botenes
+    <string name="app_name">movilcamellapp</string>
+    <string name="bt1">manual construayuda</string>
+    <string name="bt3">volver</string>
+    <string name="bt4">calculador</string>
+    //textos
+    <string name="tex1">Manual Construayuda</string>
+    <string name="tex2">Contactanos</string>
+    <string name="tex3">como instalar tubo de lavamanos</string>
+    <string name="tex4">como instalar punto de electrico</string>
+    <string name="tex5">como instalar ceramica en piso</string>
+    <string name="tex6">como instalar techo</string>
+    <string name="tex7">como primero lo preimero y segundo lo segundo tercero lo terceror</string>
+    <string name="tex8">selecionados</string>
+    <string name="tex9">cantidad</string>
+    <string name="tex10">lista de productos</string>
+    <string name="tex11">tubo pvc valor 15000</string>
+    <string name="tex12">pegamento pvc bote de 24 ml</string>
+    <string name="tex13">E
+
+        lementos y precios de articulos</string>
+</resources>
