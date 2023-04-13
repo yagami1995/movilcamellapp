@@ -92,6 +92,7 @@
             android:layout_width="match_parent"
             android:layout_height="159dp"
             android:gravity="center_horizontal"
+            android:onClick="comoinstalarcera"
             android:text="@string/tex5"
             android:textColor="@color/black"
             android:textSize="12sp" />
@@ -124,6 +125,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center_horizontal"
+            android:onClick="Electri"
             android:text="@string/tex4"
             android:textColor="@color/black"
             android:textSize="12sp" />
@@ -157,6 +159,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:gravity="center_horizontal"
+            android:onClick="Techo"
             android:text="@string/tex6"
             android:textColor="@color/black"
             android:textSize="12sp" />
