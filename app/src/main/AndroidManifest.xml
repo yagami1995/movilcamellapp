@@ -12,6 +12,15 @@
         android:theme="@style/Theme.Movilcamellapp"
         tools:targetApi="31">
         <activity
+            android:name=".Calcular2"
+            android:exported="false" />
+        <activity
+            android:name=".Calcular4"
+            android:exported="false" />
+        <activity
+            android:name=".Calcular3"
+            android:exported="false" />
+        <activity
             android:name=".Techo"
             android:exported="false" />
         <activity

@@ -3,7 +3,7 @@
     <string name="app_name">movilcamellapp</string>
     <string name="bt1">manual construayuda</string>
     <string name="bt3">volver</string>
-    <string name="bt4">calculador</string>
+    <string name="bt4">materiales</string>
     //textos
     <string name="tex1">Manual Construayuda</string>
     <string name="tex2">Contactanos</string>
@@ -17,7 +17,5 @@
     <string name="tex10">lista de productos</string>
     <string name="tex11">tubo pvc valor 15000</string>
     <string name="tex12">pegamento pvc bote de 24 ml</string>
-    <string name="tex13">E
-
-        lementos y precios de articulos</string>
+    <string name="tex13">Elementos y precios de articulos</string>
 </resources>
